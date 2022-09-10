@@ -9,7 +9,7 @@
 # 3. Se inicializa la variable lógica `bandera = False`.  Si la división o el logaritmo no se pueden calcular, se hace `bandera = True`.
 # 4. Mediante condiciones se realiza la operación deseada.
 # * En el caso de la división, si `y = 0`, NO se puede realizar la división, se muestra un mensaje y se hace `bandera = True`.
-# * En el caso del logaritmo, si `x <= 0`, NO se puede calcular el logaritmo, se muestra un mensaje y se hace *bandera = True*.
+# * En el caso del logaritmo, si `x <= 0`, NO se puede calcular el logaritmo, se muestra un mensaje y se hace `bandera = True`.
 # 5. Se muestra el resultado en el caso de que `bandera = False`.
 
 ## Diagrama de flujo ![Diagrama de flujo](diagrama.png "Diagrama de flujo")
